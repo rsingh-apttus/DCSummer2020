@@ -6,10 +6,6 @@
     "contact" : { },
     "version" : "1.0"
   },
-  "servers" : [ {
-    "url" : "http://examples.apimatic.io/apps/calculator",
-    "description" : "This environment connect to the LIVE calculator API"
-  } ],
   "security" : [ {
     "httpBasic" : [ ]
   } ],
